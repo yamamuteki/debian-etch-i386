@@ -1,7 +1,7 @@
 # Dockerfile for the Debian 4.0 etch i386 (32bit)
 
 ## Supported tags and respective `Dockerfile` links
-* [`latest` (debian-etch-i386/Dockerfile)](https://github.com/yamamuteki/debian-etch-i386/blob/master/debian-etch-i386/Dockerfile)
+* [`minbase`, `latest` (debian-etch-i386/Dockerfile)](https://github.com/yamamuteki/debian-etch-i386/blob/master/debian-etch-i386/Dockerfile)
 
 ## About this Repo
 
